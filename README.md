@@ -1,4 +1,4 @@
-SIMPLE SHELL PROJECT
+		SIMPLE SHELL PROJECT
 ________________________________________________________________
 
 __AUTHOR: JOSECK DAVID__
